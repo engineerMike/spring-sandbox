@@ -1,3 +1,5 @@
+package mk.async;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import mk.async.service.RegularService;
 
